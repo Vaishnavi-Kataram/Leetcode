@@ -16,6 +16,15 @@
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0633-sum-of-square-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
