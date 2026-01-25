@@ -5,16 +5,16 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        # nums.sort()
-        # return nums[len(nums)-k]
+        nums.sort()
+        return nums[len(nums)-k]
 
-        heap = []
-        for num in nums:
-            heapq.heappush(heap,-num)
-        while k > 0:
-            res = heapq.heappop(heap)
-            k -=1
-        return -res
+        # heap = []
+        # for num in nums:
+        #     heapq.heappush(heap,-num)
+        # while k > 0:
+        #     res = heapq.heappop(heap)
+        #     k -=1
+        # return -res
 
 
 
