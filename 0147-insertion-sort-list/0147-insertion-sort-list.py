@@ -18,9 +18,9 @@ class Solution(object):
             while prev.next and prev.next.val < curr.val:
                 prev = prev.next
 
-            next_node = curr.next
+            next_node = curr.next   # save the next node
             curr.next = prev.next
-            prev.next = curr
+            prev.next = curr        # insert
             curr = next_node
 
         return dummy.next
