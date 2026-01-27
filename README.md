@@ -16,6 +16,7 @@
 | [0704-binary-search](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0932-beautiful-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0932-beautiful-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0932-beautiful-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0932-beautiful-array) |
 ## Sorting
 |  |
 | ------- |
