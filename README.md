@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -36,6 +37,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0932-beautiful-array) |
@@ -74,4 +76,16 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0147-insertion-sort-list) |
+## Hash Table
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
