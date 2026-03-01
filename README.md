@@ -95,6 +95,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vaishnavi-Kataram/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
